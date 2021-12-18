@@ -1,0 +1,29 @@
+body{
+    color: black;
+    font-family: papyrus;
+}
+h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+a:hover{
+    color: royalblue;
+}
+.post-title{
+    color: rgb(22, 22, 22);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    align-items: center;
+}
+
+.new-title{
+    color: rgb(247, 243, 243);
+    size: 40px;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.whitecolor {
+    color: white;
+  }
